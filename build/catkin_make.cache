@@ -1,0 +1,2 @@
+tutorials_ros
+-DCATKIN_DEVEL_PREFIX=/home/song/Documents/test_gazebo_ros_vscode/devel -DCMAKE_INSTALL_PREFIX=/home/song/Documents/test_gazebo_ros_vscode/install -G Unix Makefiles

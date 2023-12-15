@@ -1,0 +1,8 @@
+prefix=/home/song/Documents/test_gazebo_ros_vscode/install
+
+Name: tutorials_ros
+Description: Description of tutorials_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

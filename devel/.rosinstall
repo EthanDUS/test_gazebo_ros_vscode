@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/song/Documents/test_gazebo_ros_vscode/devel/setup.sh
