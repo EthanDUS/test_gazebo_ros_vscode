@@ -7,9 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/song/Documents/test_gazebo_ros_vscode/devel:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/home/song/Documents/test_gazebo_ros_vscode/devel/lib:$LD_LIBRARY_PATH"
-export PKG_CONFIG_PATH="/home/song/Documents/test_gazebo_ros_vscode/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/song/Documents/test_gazebo_ros_vscode/build'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/song/Documents/test_gazebo_ros_vscode/devel/share/common-lisp'
-export ROS_PACKAGE_PATH="/home/song/Documents/test_gazebo_ros_vscode/src:$ROS_PACKAGE_PATH"

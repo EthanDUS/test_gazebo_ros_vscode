@@ -131,6 +131,12 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/song/Documents/test_gazebo_ros_vscode/build/gtest/cmake_install.cmake")
+  include("/home/song/Documents/test_gazebo_ros_vscode/build/learning_launch/cmake_install.cmake")
+  include("/home/song/Documents/test_gazebo_ros_vscode/build/learning_parameter/cmake_install.cmake")
+  include("/home/song/Documents/test_gazebo_ros_vscode/build/my_turtle/cmake_install.cmake")
+  include("/home/song/Documents/test_gazebo_ros_vscode/build/learning_service/cmake_install.cmake")
+  include("/home/song/Documents/test_gazebo_ros_vscode/build/learning_tf/cmake_install.cmake")
+  include("/home/song/Documents/test_gazebo_ros_vscode/build/learning_topic/cmake_install.cmake")
   include("/home/song/Documents/test_gazebo_ros_vscode/build/tutorials_ros/cmake_install.cmake")
 
 endif()
